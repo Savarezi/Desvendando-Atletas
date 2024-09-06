@@ -13,8 +13,10 @@ Se você é apaixonado por esportes e sempre quer saber mais sobre aquele atleta
 ##
 # Como usar 🚀
 
-1- Clone este repositório: git clone https://github.com/seu-repositorio/desvendando-atletas.git
+1- Clone este repositório: git clone https:https://github.com/Savarezi/Desvendando-Atletas
+
 2- Abra o arquivo index.html: Utilize seu navegador favorito para visualizar a aplicação.
+
 3- Comece a explorar! Digite o nome do seu atleta ou esporte favorito e descubra informações valiosas.
 ##
 # Detalhes Técnicos 🔍
